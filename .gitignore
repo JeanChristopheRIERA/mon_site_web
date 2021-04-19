@@ -1,2 +1,6 @@
 /tmp/*
 *.truc
+/tmp/todo.text
+*.txt
+*.doc
+
